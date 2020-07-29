@@ -1,0 +1,28 @@
+# Operating System Files
+
+
+# Build Artifacts
+
+.gradle/
+build/
+target/
+bin/
+dependency-reduced-pom.xml
+
+# Eclipse Project Files
+
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA Files
+
+*.iml
+*.ipr
+*.iws
+*.idea
+logDir_IS_UNDEFINED/
+
+*.exe
+.idea/
+*.log
