@@ -22,7 +22,6 @@ func init() {
 	} else {
 		std.Info("Failed to log to file, using default stderr")
 	}
-
 }
 
 // WithField creates an entry from the standard logger and adds a field to
