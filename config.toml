@@ -1,0 +1,7 @@
+
+[database]
+host="cdb-bxumt9i9.gz.tencentcdb.com"
+port=10160
+user="dev"
+pwd="dev123!@#"
+name="iot"
